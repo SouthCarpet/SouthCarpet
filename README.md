@@ -3,7 +3,7 @@
   <img src="profile/header.svg" width="100%" alt="Fuksss. Local-first tools for Windows. Built simple, released often. A chart of public release dates for antigravity-plugin, Alidade, Abakus and pdf-editor." />
 </picture>
 
-I build complex things as simple as possible. My tools run on your computer, not on a server, and they keep your data there. Each change gets a second check before it ships. Now and then I also contribute to open-source tools I use, such as [T3 Code](https://github.com/pingdotgg/t3code).
+I build complex things as simple as possible. My tools run on your computer, not on a server, and they keep your data there. Each change gets a second check before it ships. Now and then I also contribute to open-source tools.
 
 ## Apps
 
@@ -20,20 +20,6 @@ Measures a home internet link over time and keeps the record. The CSV export giv
 <sub>Rust · SQLite</sub>
 
 <a href="https://github.com/SouthCarpet/Alidade"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/alidade-home-dark.png" /><img src="profile/alidade-home-light.png" width="49%" alt="Alidade, Home: one full measurement round with download, upload and ping under load." /></picture></a> <a href="https://github.com/SouthCarpet/Alidade"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/alidade-continuous-dark.png" /><img src="profile/alidade-continuous-light.png" width="49%" alt="Alidade, Continuous view: throughput, latency and loss charts above a table of recent rounds." /></picture></a>
-
-## Slovak-only apps
-
-These apps are made for Slovakia, so their interface and description are in Slovak.
-
-### [Abakus](https://github.com/SouthCarpet/Abakus) &nbsp;<sub>0.3.0</sub>
-
-Číta mesačné PDF výpisy z Tatra banky, overí ich kontrolné súčty a rozdelí platby do kategórií. Ukáže príjmy, výdavky a pravidelné platby. Údaje zostanú na vašom počítači.
-<sub>Rust · Tauri · Windows</sub>
-
-<table><tr>
-<td width="50%" valign="top"><a href="https://github.com/SouthCarpet/Abakus"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/abakus-transactions-dark.png" /><img src="profile/abakus-transactions-light.png" width="100%" alt="Abakus, zoznam transakcií so vzorovými platbami zo vzorového výpisu." /></picture></a></td>
-<td width="50%" valign="top"><a href="https://github.com/SouthCarpet/Abakus"><picture><source media="(prefers-color-scheme: dark)" srcset="profile/abakus-overview-dark.png" /><img src="profile/abakus-overview-light.png" width="100%" alt="Abakus, prehľad: výdavky podľa kategórií a mesiacov, príjmy a výdavky." /></picture></a></td>
-</tr></table>
 
 ## Plugins
 
